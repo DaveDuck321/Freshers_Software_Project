@@ -8,3 +8,4 @@
 + Workshop order
   + Git
   + React/ and or React native
+  + Machine learning
